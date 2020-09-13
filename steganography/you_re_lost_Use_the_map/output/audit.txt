@@ -1,0 +1,23 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Feb 10 15:02:34 2019
+Invocation: foremost challenge_118.jpg 
+Output directory: /home/py_lover/Desktop/pentesting-2019/ringzer0ctf/steganography/you_re_lost_Use_the_map/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: challenge_118.jpg
+Start: Sun Feb 10 15:02:34 2019
+Length: 3 MB (3446477 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	       3 MB 	          0 	 
+Finish: Sun Feb 10 15:02:34 2019
+
+1 FILES EXTRACTED
+	
+jpg:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sun Feb 10 15:02:34 2019
